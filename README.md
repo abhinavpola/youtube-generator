@@ -1,5 +1,7 @@
 # youtube-generator
-Simple Python script to generate youtube content
+Simple Python script to generate youtube content  
+
+[channel](https://www.youtube.com/channel/UCmRbaDjslUOZNedWhcgxyrw)
 
 # developments  
 needs youtube api to upload automatically  
